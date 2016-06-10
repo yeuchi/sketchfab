@@ -1,0 +1,10 @@
+Z:\ctyeung On My Mac\Documents\Dev\C#\httpRequest\httpRequest\bin\Debug\httpRequest.exe
+Z:\ctyeung On My Mac\Documents\Dev\C#\httpRequest\httpRequest\bin\Debug\httpRequest.pdb
+Z:\ctyeung On My Mac\Documents\Dev\C#\httpRequest\httpRequest\obj\Debug\ResolveAssemblyReference.cache
+Z:\ctyeung On My Mac\Documents\Dev\C#\httpRequest\httpRequest\obj\Debug\httpRequest.Form1.resources
+Z:\ctyeung On My Mac\Documents\Dev\C#\httpRequest\httpRequest\obj\Debug\httpRequest.Properties.Resources.resources
+Z:\ctyeung On My Mac\Documents\Dev\C#\httpRequest\httpRequest\obj\Debug\httpRequest.csproj.GenerateResource.Cache
+Z:\ctyeung On My Mac\Documents\Dev\C#\httpRequest\httpRequest\obj\Debug\httpRequest.exe
+Z:\ctyeung On My Mac\Documents\Dev\C#\httpRequest\httpRequest\obj\Debug\httpRequest.pdb
+\\vmware-host\Shared Folders\Documents\Dev\C#\sketchfab\httpRequest\obj\Debug\httpRequest.exe
+\\vmware-host\Shared Folders\Documents\Dev\C#\sketchfab\httpRequest\obj\Debug\httpRequest.pdb
